@@ -2,6 +2,8 @@
 
 Vamos escrever um jogo "Pedra, Papel, Tesoura" pra ser jogado em linha de comando contra a máquina.
 
+Você pode construir da forma que preferir. Abaixo colocamos um passo-a-passo que pode servir de guia caso você deseje.
+
 #### Regras do Jogo:
 - 📄Papel vence ⛰Pedra
 - ⛰Pedra vence ✂️Tesoura
@@ -12,7 +14,7 @@ Vamos escrever um jogo "Pedra, Papel, Tesoura" pra ser jogado em linha de comand
 2) declarar uma variável pra receber a resposta da pessoa jogadora (atribuir qualquer valor string por enquanto)
 3) declarar uma variável pra receber a resposta da máquina (atribuir qualquer valor string por enquanto) 
 4) comparar os valores (sua resposta vs resposta da máquina) de acordo com as regras do jogo (por exemplo, papel vence pedra)
-###### usar if ou switch
+###### dica: você pode usar if ou switch, ou a estrutura que mais fizer sentido pra você
 5) adicionar verificação de empate
 6) adicionar verificação do valor entrado (só devem ser aceitos os valores pedra, papel ou tesoura)
 7) adicionar sorteio pra randomizar a resposta da máquina
